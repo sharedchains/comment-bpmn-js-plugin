@@ -1,6 +1,6 @@
 {
   "name": "camunda-modeler-bpmn-js-plugin-URI-in-comment",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Open links in comments",
   "main": "index.js",
   "scripts": {
